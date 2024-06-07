@@ -32,23 +32,22 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────✧${s.BOT}✧────◆
-│   *Préfix* : ${s.PREFIXE}
-│   *Owner* : ${s.OWNER_NAME}
-│   *Mode* : ${mode}
-│   *Commands* : ${cm.length}
-│   *Date* : ${date}
-│   *Hour* : ${temps}
-│   *Mémoire* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│   *Plateforme* : ${os.platform()}
-│   *Développer* : Deltah-Tech 
-│  & Beltahmd 
-╰─────✧WA-BOT✧─────◆ \n\n`;
+╭────✧ *DELTAH BOT* ✧────◆
+│☹︎  *Préfix* : ${s.PREFIXE}
+│☹︎  *Owner* : ${s.OWNER_NAME}
+│☹︎  *Mode* : ${mode}
+│☹︎  *Commands* : ${cm.length}
+│☹︎  *Date* : ${date}
+│☹︎  *Hour* : ${temps}
+│☹︎  *Mémory* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+│☹︎  *Platform* : ${os.platform()}
+│☹︎  *Déveloper* : Deltah-Tech 
+╰─────✧BEST-BOT✧─────◆ \n\n`;
     
 let menuMsg = `
 👋 Hello ${nomAuteurMessage} 👋
 
-*List of commands :*
+*DELTAH MD COMMANDS*
 ◇                             ◇
 `;
 
@@ -56,7 +55,7 @@ let menuMsg = `
         menuMsg += `╭────❏ ${cat} ❏`;
         for (const cmd of coms[cat]) {
             menuMsg += `
-│ ${cmd}`;
+♡│ ${cmd}`;
         }
         menuMsg += `
 ╰═════════════⊷ \n`
@@ -65,9 +64,9 @@ let menuMsg = `
     menuMsg += `
 ◇            ◇
 *»»————— ★ —————««*
-"To use a command, insert ${prefixe} followed by the command_name."
+*Thank you for choosing DELTAH BOT*
  
-    Powered by Deltah-Md
+*Powered by Deltah-Md*
                                                 
 *»»————— ★ —————««*
 `;
