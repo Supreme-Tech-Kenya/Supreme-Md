@@ -881,18 +881,18 @@ ${metadata.desc}`;
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `╔════◇
-║ 『𝐙𝐨𝐤𝐨𝐮-𝐌𝐃』
-║    Prefix : [ ${prefixe} ]
-║    Mode :${md}
-║    Total Commandes : ${evt.cm.length}︎
+║ 𝐃𝐄𝐋𝐓𝐀𝐇 𝐌𝐃 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃. 
+✇ 𝐏𝐫𝐞𝐟𝐢𝐱 : [ ${prefixe} ]
+✇ 𝐌𝐨𝐝𝐞 :${md}
+✇ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 : ${evt.cm.length}
+✇︎ 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫  : *BENJAMIN*
 ╚══════════════════╝
 
 ╔═════◇
-
-
- if there are somes error you can tell us :) 
- thanks you for choosing zokou MD
-
+✇ *THANK YOU FOR CHOOSING :*
+     
+       *DELTAH BOT*
+ 
 ╚══════════════════╝`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
