@@ -41,8 +41,8 @@ const date = moment().format('DD/MM/YYYY');
 │   *Hour* : ${temps}
 │   *Mémoire* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │   *Plateforme* : ${os.platform()}
-│   *Développer* : Djalega++ 
-│  & M๏𝓷keℽ D Lบffy
+│   *Développer* : Deltah-Tech 
+│  & Beltahmd 
 ╰─────✧WA-BOT✧─────◆ \n\n`;
     
 let menuMsg = `
@@ -67,7 +67,7 @@ let menuMsg = `
 *»»————— ★ —————««*
 "To use a command, insert ${prefixe} followed by the command_name."
  
-    Powered by Zokou-MD
+    Powered by Deltah-Md
                                                 
 *»»————— ★ —————««*
 `;
@@ -76,7 +76,7 @@ let menuMsg = `
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Zokou-MD*, développé par Djalega++" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Deltah-Md*, développé par Deltah-Tech" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
@@ -86,7 +86,7 @@ let menuMsg = `
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Zokou-MD*, développé par Djalega++" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Deltah-Md*, développé par Deltah-Tech" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
