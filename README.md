@@ -36,20 +36,19 @@ Deltah-Md is a multi-device bot designed to enhance your WhatsApp conversations 
 
 ## Contributions
 
-Contributions to Zokou are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
+Contributions to Deltah-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
 
    thinks to these persons ;
 
    **Fatao** who added commands (Fancy, gpt, dalle, apk); <br>
 
-   **CrazyPrice** who hosted a second website for the session_id;
+   **Beltahmd** who hosted a second website for the session_id;
 
 ## License
 
-The WhatsApp Bot Zokou is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot Deltah-Md is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the WhatsApp Bot Zokou to enhance your conversations and make your WhatsApp experience more interesting!
-
+Enjoy the diverse features of the WhatsApp Bot Deltah-Md to enhance your conversations and make your WhatsApp experience more interesting!
 ## Developers:
 
 - [**Djalega++**](https://github.com/djalega8000/Zokou-MD/)
