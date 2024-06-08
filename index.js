@@ -553,7 +553,7 @@ function mybotpic() {
            // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
             const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
             var sticker = new Sticker(gifLink, {
-                pack: 'Zoou-Md',
+                pack: 'Deltah-Md',
                 author: conf.OWNER_NAME,
                 type: StickerTypes.FULL,
                 categories: ['🤩', '🎉'],
@@ -885,13 +885,13 @@ ${metadata.desc}`;
 ✇ 𝐏𝐫𝐞𝐟𝐢𝐱 : [ ${prefixe} ]
 ✇ 𝐌𝐨𝐝𝐞 :${md}
 ✇ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 : ${evt.cm.length}
-✇︎ 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫  : *BENJAMIN*
+✇︎ 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫  : *DELTAH-TECH*
 ╚══════════════════╝
 
 ╔═════◇
 ✇ *THANK YOU FOR CHOOSING :*
      
-       *DELTAH BOT*
+       *DELTAH MD BOT*
  
 ╚══════════════════╝`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
