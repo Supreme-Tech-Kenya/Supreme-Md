@@ -1,4 +1,4 @@
-# Deltah-Md V1.0
+# Deltah-Md V1.2
 
 
 
@@ -24,23 +24,23 @@ Deltah-Md is a multi-device bot designed to enhance your WhatsApp conversations 
 
 1. Click on **[Fork](https://github.com/Deltahmd/Deltah-Md/fork)** to copy the repo to your GitHub account. Make sure to add a star 🌟 to encourage the developers.
 
-2. Obtain a bot session: 
+2. Obtain a bot Deltah-Md session: 
 
-   [Session-1](https://deltahsession-7903ef2b4bb6.herokuapp.com/) ; <br>
+   {Deltah-Md session} (https://deltahsession-7903ef2b4bb6.herokuapp.com/) ; <br>
 
 
 4. Deploy
    - **Heroku Deployment:**
-     1. If you don't have a **Heroku** account, click [**here**](https://id.heroku.com/login) to create one.
-     2. Click [**here**](https://dashboard.heroku.com/new?template=https://github.com/Deltahmd/Deltah-Md) to deploy the bot on **Heroku**.
+     1. If you don't have a **Heroku** account, click [**HERE**](https://id.heroku.com/login) to create one.
+     2. Click [**HERE**](https://dashboard.heroku.com/new?template=https://github.com/Deltahmd/Deltah-Md) to deploy the bot on **Heroku**.
 
 ## Contributions
 
 Contributions to Deltah-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
 
-   thinks to these persons ;
+   Thanks 😊 to these persons ;
 
-   **Fatao** who added commands (Fancy, gpt, dalle, apk); <br>
+   **Alpha** who added commands (Fancy, gpt, dalle, apk); <br>
 
    **Beltahmd** who hosted a second website for the session_id;
 
@@ -49,8 +49,8 @@ Contributions to Deltah-Md are welcome! If you have ideas for new features, impr
 The WhatsApp Bot Deltah-Md is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the WhatsApp Bot Deltah-Md to enhance your conversations and make your WhatsApp experience more interesting!
-## Developers:
+😎 Developers of Deltah-Md:
 
-- [**Djalega++**](https://github.com/djalega8000/Zokou-MD/)
-- [**᚛M๏𝓷keℽ D Lบffy᚜**](https://github.com/Faouz995)
+- https://wa.me/254796266758
+- https://wa.me/254769702239 
 
