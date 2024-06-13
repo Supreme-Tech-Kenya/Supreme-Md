@@ -32,7 +32,7 @@ zokou({ nomCom: "tagall", categorie: 'Group', reaction: "📣" }, async (dest, z
   let membresGroupe = verifGroupe ? await infosGroupe.participants : ""
   var tag = ""; 
   tag += `========================\n  
-        🌟 *Zokou-Md* 🌟
+        🌟 *Deltah-Md* 🌟
 ========================\n
 👥 Group : ${nomGroupe} 🚀 
 👤 Autor : *${nomAuteurMessage}* 👋 
@@ -243,7 +243,7 @@ zokou({ nomCom: "remove", categorie: 'Group', reaction: "👨🏿‍💼" }, asy
   let autAdmin = verifGroupe ? a.includes(auteurMessage) : false;
   zkad = verifGroupe ? a.includes(idBot) : false;
   try {
-    // repondre(verifZokouAdmin)
+    // repondre(verifDeltahAdmin)
 
     if (autAdmin || superUser) {
       if (msgRepondu) {
@@ -675,7 +675,7 @@ zokou({nomCom:"hidetag",categorie:'Group',reaction:"🎤"},async(dest,zk,command
         let media  = await zk.downloadAndSaveMediaMessage(msgRepondu.stickerMessage)
 
         let stickerMess = new Sticker(media, {
-          pack: 'Zokou-tag',
+          pack: 'Deltah-tag',
           type: StickerTypes.CROPPED,
           categories: ["🤩", "🎉"],
           id: "12345",
@@ -741,7 +741,7 @@ zokou({ nomCom: "apk", reaction: "✨", categorie: "Recherche" }, async (dest, z
 
     const downloadLink = appData.dllink;
     const captionText =
-      "『 *Zokou-Md App* 』\n\n*Name :* " + appData.name +
+      "『 *Deltah-Md App* 』\n\n*Name :* " + appData.name +
       "\n*Id :* " + appData["package"] +
       "\n*Last Update :* " + appData.lastup +
       "\n*Size :* " + appData.size +
@@ -940,11 +940,11 @@ zokou({
   categorie : 'Group'
 } , async (dest,zk,commandeOptions) => {
 
-  const {arg , repondre , verifAdmin , superUser , verifZokouAdmin } = commandeOptions ;
+  const {arg , repondre , verifAdmin , superUser , verifDeltahAdmin } = commandeOptions ;
 
   if (verifAdmin || superUser) {
 
-    if(!verifZokouAdmin){ repondre('You need administrative rights to perform this command') ; return ;}
+    if(!verifDeltahAdmin){ repondre('You need administrative rights to perform this command') ; return ;}
 
     if (!arg || arg.length == 0) { repondre('Please enter the country code whose members will be removed') ; return ;}
 
