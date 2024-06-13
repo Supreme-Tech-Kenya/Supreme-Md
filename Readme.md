@@ -26,7 +26,7 @@ Deltah-Md is a multi-device bot designed to enhance your WhatsApp conversations 
 
 2. Obtain a bot Deltah-Md session: 
 
-   {Deltah-Md session} (https://deltahsession-7903ef2b4bb6.herokuapp.com/) ; <br>
+   [Session-1](https://deltahsession-7903ef2b4bb6.herokuapp.com/) ; <br><br>
 
 
 4. Deploy
