@@ -1,24 +1,17 @@
-# Deltah-Md V1.0.0
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+## DELTAH-MD V1.0.0 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=DELTAH+MD;A+WHATSAPP+BOT;CREATED+BY+DELTAH+TECH" alt="Typing SVG" /></a>
+  </p>
+<div align="center">
 
+| [![DELTAH TECH](https://telegra.ph/file/c6eb7ff31f8b73f3939fa.jpg?lenght=50width=50)](https://github.com/Deltahmd)|
+|----|
 
-Deltah-Md is a multi-device bot designed to enhance your WhatsApp conversations with useful and fun features. Whether managing files, interacting with stickers, or facilitating group management, Deltah-Md is here to assist you.
-
-## Key Features
-
-- **File Download:** Deltah-Md can download audio and video files from links you send, making it easy to share them with your contacts.
-
-- **Sticker Export:** You can export stickers from Telegram and use them in your WhatsApp conversations by simply sending them to Deltah-Md.
-
-- **Group Management:** Deltah-Md offers group management features, such as adding or removing members, configuring rules, and other settings.
-
-- **Text to Img:** The best logos have been selected for your convenience.
-
-## Fun Features
-
-- **Jokes and Riddles:** Deltah-Md comes with a collection of jokes and riddles to liven up your conversations.
-
-- **Inspiring Quotes:** Receive inspiring quotes to motivate you daily.
+<p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?
 
 ## Get Deltah-Md
 
