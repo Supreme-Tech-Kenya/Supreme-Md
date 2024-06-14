@@ -1,9 +1,9 @@
-const {zokou} = require("../framework/zokou");
+const {Deltah-Md } = require("../framework/zokou");
 const conf = require("../set")
 const {jidDecode}=require("@whiskeysockets/baileys")
 
 
-zokou( {
+Deltah-Md ( {
   nomCom : "profile",
  categorie : "Fun",
    },
