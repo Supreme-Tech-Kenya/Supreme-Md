@@ -13,6 +13,8 @@
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?
 
+
+
 ## Get Deltah-Md
 
 1. Click on **[Fork](https://github.com/Deltahmd/Deltah-Md/fork)** to copy the repo to your GitHub account. Make sure to add a star 🌟 to encourage the developers.
