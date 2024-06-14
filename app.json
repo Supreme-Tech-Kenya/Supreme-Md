@@ -2,7 +2,7 @@
   "name":"Deltah-Md v1.0",
   "description":"bot whatsapp développé par Deltah-Tech",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://raw.githubusercontent.com/djalega8000/Zokou-2.0/main/Zokou.jpg",
+  "logo":"https://raw.githubusercontent.com/djalega8000/Deltah-Md-2.0/main/Deltah-Md",
   "repository":"https://github.com/Deltahmd/Deltah-Md",
   "succes_url":"/",
   "stack":"container",
@@ -10,7 +10,7 @@
     "PREFIX":
     {
       "description":"choose your prefix of bot",
-      "value":"+",
+      "value":".",
       "required":true
     },
     "AUTO_READ_STATUS":
@@ -49,7 +49,7 @@
     "PUBLIC_MODE":
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
-      "value":"yes",
+      "value":"no",
       "required":false
     }
 	,
@@ -81,7 +81,7 @@
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254796266758,254769702239"
+    "value": "254796266758 & 254769702239"
   },
     "WARN_COUNT":
   {
@@ -96,8 +96,8 @@
     "value": "yes"
   },
   "PRESENCE":{
-    "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-    "value":"1",
+    "description":"Mark your presence: online to indicate that you are online even if you are not. typing to indicate that you are currently typing a message. recording to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
+    "value":"recording",
     "required": false
   },
   "ANTI_DELETE_MESSAGE" : {
