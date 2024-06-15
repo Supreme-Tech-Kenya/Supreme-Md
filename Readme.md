@@ -7,7 +7,7 @@
   </p>
 <div align="center">
 
-| [![SUPREME TECH](https://telegra.ph/file/c6eb7ff31f8b73f3939fa.jpg?lenght=50width=50)](https://github.com/Deltahmd)|
+| [![SUPREME TECH](https://telegra.ph/file/201479b521f3c8c245147.jpg?lenght=50width=50)](https://github.com/Deltahmd)|
 |----|
 
 <p align="center">
