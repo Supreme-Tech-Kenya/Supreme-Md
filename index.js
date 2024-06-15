@@ -80,7 +80,7 @@ setTimeout(() => {
         const sockOptions = {
             version,
             logger: pino({ level: "silent" }),
-            browser: ['Deltah-Md', "chrome", "1.0.0"],
+            browser: ['Supreme-Md', "chrome", "1.0.0"],
             printQRInTerminal: true,
             fireInitQueries: false,
             shouldSyncHistoryMessage: true,
@@ -454,7 +454,7 @@ function mybotpic() {
                                    // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
                                     const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
                                     var sticker = new Sticker(gifLink, {
-                                        pack: 'Deltah-Md',
+                                        pack: 'Supreme-Md',
                                         author: conf.OWNER_NAME,
                                         type: StickerTypes.FULL,
                                         categories: ['🤩', '🎉'],
@@ -552,7 +552,7 @@ function mybotpic() {
            // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
             const gifLink = "https://github.com/Deltahmd/Deltah-Md/main/media/remover.gif";
             var sticker = new Sticker(gifLink, {
-                pack: 'Deltah-Md',
+                pack: 'Supreme-Md',
                 author: conf.OWNER_NAME,
                 type: StickerTypes.FULL,
                 categories: ['🤩', '🎉'],
@@ -880,17 +880,17 @@ ${metadata.desc}`;
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `╔════◇
-║ 𝐃𝐄𝐋𝐓𝐀𝐇 𝐌𝐃 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃. 
+║ SUPREME MD CONNECTED. 
 ✇ 𝐏𝐫𝐞𝐟𝐢𝐱 : [ ${prefixe} ]
 ✇ 𝐌𝐨𝐝𝐞 :${md}
 ✇ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 : ${evt.cm.length}
-✇︎ 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫  : *DELTAH-TECH*
+✇︎ 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫  : *SUPREME-TECH*
 ╚══════════════════╝
 
 ╔═════◇
 ✇ *THANK YOU FOR CHOOSING :*
      
-       *DELTAH MD BOT*
+       *SUPREME MD BOT*
  
 ╚══════════════════╝`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
