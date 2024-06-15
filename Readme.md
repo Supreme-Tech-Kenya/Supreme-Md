@@ -21,7 +21,7 @@
 
 2. Obtain a bot Deltah-Md session: 
 
-   [Session-1](https://supremesession-26bb3cbe7d5c.herokuapp.com/) ; <br><br>
+   [Session-1](https://supresession-c8207054b6c5.herokuapp.com/) ; <br><br>
 
 
 4. Deploy
