@@ -7,7 +7,7 @@
   </p>
 <div align="center">
 
-| [![SUPREME TECH](https://telegra.ph/file/201479b521f3c8c245147.jpg?lenght=50width=50)](https://github.com/Deltahmd)|
+| [![SUPREME TECH](https://telegra.ph/file/201479b521f3c8c245147.jpg?lenght=50width=50)](https://github.com/Sepreme-Md)|
 |----|
 
 <p align="center">
@@ -17,17 +17,17 @@
 
 ## Get Supreme-Md
 
-1. Click on **[Fork](https://github.com/Deltahmd/Deltah-Md/fork)** to copy the repo to your GitHub account. Make sure to add a star 🌟 to encourage the developers.
+1. Click on **[Fork](https://github.com/Supreme-Tech-Kenya/Supreme-Md/fork)** to copy the repo to your GitHub account. Make sure to add a star 🌟 to encourage the developers.
 
 2. Obtain a bot Deltah-Md session: 
 
-   [Session-1](https://deltahsession-7903ef2b4bb6.herokuapp.com/) ; <br><br>
+   [Session-1](https://supremesession-26bb3cbe7d5c.herokuapp.com/) ; <br><br>
 
 
 4. Deploy
    - **Heroku Deployment:**
      1. If you don't have a **Heroku** account, click [**HERE**](https://id.heroku.com/login) to create one.
-     2. Click [**HERE**](https://dashboard.heroku.com/new?template=https://github.com/Deltahmd/Deltah-Md) to deploy the bot on **Heroku**.
+     2. Click [**HERE**](https://dashboard.heroku.com/new?template=https://github.com/Supreme-Tech-Kenya/Supreme-Md) to deploy the bot on **Heroku**.
 
 ## Contributions
 
