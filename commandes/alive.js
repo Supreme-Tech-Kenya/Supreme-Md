@@ -73,8 +73,10 @@ else {
     } else {
         if(!superUser) { repondre("there is no alive for this bot") ; return};
 
-      await   repondre("Am alive Master,am ready at your service☺️");
-         repondre("Be still :⁠-⁠)")
+      await   repondre(("You have not yet saved your alive, to do this;  enter after alive your message and your image or video link in this context: .alive message;lien");
+         repondre("don't do fake thinks :)")
+    });
+ 
      }
  } else {
 
