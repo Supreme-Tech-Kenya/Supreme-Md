@@ -32,7 +32,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────✧ *DELTAH BOT* ✧────◆
+╭────✧ *SUPREME BOT* ✧────◆
 │☹︎  *Préfix* : ${s.PREFIXE}
 │☹︎  *Owner* : ${s.OWNER_NAME}
 │☹︎  *Mode* : ${mode}
@@ -41,13 +41,13 @@ const date = moment().format('DD/MM/YYYY');
 │☹︎  *Hour* : ${temps}
 │☹︎  *Mémory* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │☹︎  *Platform* : ${os.platform()}
-│☹︎  *Déveloper* : Deltah-Tech 
+│☹︎  *Déveloper* : Supreme-Tech 
 ╰─────✧BEST-BOT✧─────◆ \n\n`;
     
 let menuMsg = `
 👋 Hello ${nomAuteurMessage} 👋
 
-*DELTAH MD COMMANDS*
+*✨😎SUPREME MD COMMANDS😎✨*
 ◇                             ◇
 `;
 
@@ -64,9 +64,9 @@ let menuMsg = `
     menuMsg += `
 ◇            ◇
 *»»————— ★ —————««*
-*Thank you for choosing DELTAH BOT*
+*Thank you for choosing SUPREME BOT*
  
-*Powered by Deltah-Md*
+*Powered by Supreme-Md*
                                                 
 *»»————— ★ —————««*
 `;
@@ -75,7 +75,7 @@ let menuMsg = `
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Deltah-Md*, développé par Deltah-Tech" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Supreme-Md*, développé par Supreme-Tech" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
@@ -85,7 +85,7 @@ let menuMsg = `
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Deltah-Md*, développé par Deltah-Tech" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Supreme-Md*, développé par Supreme-Tech" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
