@@ -1,9 +1,9 @@
 {
-  "name":"Deltah-Md v1.0",
-  "description":"Deploy your own Deltah-md bot created by Beltah tech team and deveped by Deltah tech.fill in your valuables. ",
+  "name":"SUPREME-MD v1.0",
+  "description":"Deploy your own SUPREME-MD bot created by Beltah tech team and deveped by supreme tech.fill in your valuables. ",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/c6eb7ff31f8b73f3939fa.jpg",
-  "repository":"https://github.com/Deltahmd/Deltah-Md",
+  "logo":"https://telegra.ph/file/201479b521f3c8c245147.jpg",
+  "repository":"https://github.com/Supreme-Tech-Kenya/Supreme-Md",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"Deltah-Md",
+      "value":"SUPREME-MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/c6eb7ff31f8b73f3939fa.jpg",
+      "value":"https://telegra.ph/file/201479b521f3c8c245147.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Deltah-Md"
+    "value": "SUPREME"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '254')",
     "required":false,
-    "value": "254796266758,254769702239"
+    "value": "254114141192,254796266758,254769702239"
   },
     "WARN_COUNT":
   {
