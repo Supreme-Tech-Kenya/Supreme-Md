@@ -17,9 +17,8 @@
 
 ## Get Supreme-Md
 
-**CLICK HERE 👇 TO FORK**
 
-**[Fork]("https://github.com/Supreme-Tech-Kenya/Supreme-Md/fork")
+1. Click on **[Fork](https://github.com/Supreme-Tech-Kenya/Supreme-Md/fork)** to copy the repo to your GitHub account. Make sure to add a star 🌟 to encourage the developers
 
 3. Obtain a bot Supreme-Md session: 
 
