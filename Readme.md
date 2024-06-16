@@ -19,7 +19,7 @@
 
 **CLICK HERE 👇 TO FORK**
 
-<a href="https://github.com/Supreme-Tech-Kenya/Supreme-Md/fork"><img src="https://img.shields.io/badge/Fork%20Supreme-Md%20Repo-blue" alt="FORK SUPREME-MD REPO" width="150"></a>
+**[Fork]("https://github.com/Supreme-Tech-Kenya/Supreme-Md/fork")
 
 3. Obtain a bot Supreme-Md session: 
 
