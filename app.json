@@ -1,6 +1,6 @@
 {
   "name":"SUPREME-MD v1.0",
-  "description":"Deploy your own SUPREME-MD bot created by Beltah tech team and deveped by supreme tech.fill in your valuables. ",
+  "description":"Deploy your own SUPREME-MD bot created by Supreme Alpha & Supreme Benjamin.Fill in your valuables. ",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/201479b521f3c8c245147.jpg",
   "repository":"https://github.com/Supreme-Tech-Kenya/Supreme-Md",
@@ -15,13 +15,13 @@
     },
     "AUTO_READ_STATUS":
     {
-      "description":"Your contact status will be read automatically(type yes to active or no to deactive  ; don't write in capital letter)",
+      "description":"Your contacts status will be read automatically(type yes to active or no to deactive  ; don't write in capital letter)",
       "value":"yes",
       "required":false
     }, "AUTO_DOWNLOAD_STATUS":
     {
       "description":"Your contact status will be download automatically and send to you(type yes to active or no to deactive ; don't write in capital letter)",
-      "value":"no",
+      "value":" ",
       "required":false
     }
     ,
@@ -54,7 +54,7 @@
     }
 	,
     "HEROKU_APY_KEY": {
-    "description": "insert your heroku api-key (this is optionnal)",
+    "description": "insert your heroku api-key (this is a Must )",
      "required" :false
     },
   "HEROKU_APP_NAME": {
@@ -79,9 +79,9 @@
     "NUMERO_OWNER":
   {
     
-    "desc": "Your number , dont put '+' and put you area code(exemple of togo '254')",
+    "desc": "Your number , dont put '+' and put you area code(exemple of logo '254')",
     "required":false,
-    "value": "254114141192,254796266758,254769702239"
+    "value": "254796266758 & 254769702239"
   },
     "WARN_COUNT":
   {
@@ -97,7 +97,7 @@
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-    "value":"3",
+    "value":" ",
     "required": false
   },
   "ANTI_DELETE_MESSAGE" : {
