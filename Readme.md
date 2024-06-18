@@ -18,17 +18,17 @@
 🔗 SETUP 
 
 
-1. First star 🌟and [**FORK**](https://github.com/Supreme-Tech-Kenya/Supreme-Md) it
+First star 🌟and [**FORK**](https://github.com/Supreme-Tech-Kenya/Supreme-Md) it
 
-2. Get SESSION ID by Pairing code or Scanning QR: 
+Get SESSION ID by Pairing code or Scanning QR: 
 
    [**SESSION TAB**](https://supresession-c8207054b6c5.herokuapp.com/) ; <br><br>
 _Copy the session ID to paste it on HEROKU
 
 🔗 DEPLOY TO HEROKU 
  
-1. If You Don't Have An Account On HEROKU  [**CREATE ACCOUNT NOW**](https://id.heroku.com/login) 
-2. If You Have An Heroku Account [**DEPLOY NOW**](https://dashboard.heroku.com/new?template=https://github.com/Supreme-Tech-Kenya/Supreme-Md)
+If You Don't Have An Account On HEROKU  [**CREATE ACCOUNT NOW**](https://id.heroku.com/login) 
+If You Have An Heroku Account [**DEPLOY NOW**](https://dashboard.heroku.com/new?template=https://github.com/Supreme-Tech-Kenya/Supreme-Md)
 
 🔗 CONTRIBUTIONS
 
@@ -36,17 +36,17 @@ Contribution to Supreme-Md are welcome!! If you have any idea for new Features ,
 
 🔗 THANKS TO 😊 :
 
- 1. .[**SUPREME ALPHA**](https://wa.me/254796266758) For code Encryption. 
- 2. .[**SUPREME LIL BENJAMIN**](https://wa.me/254769702239) For several Cmds & ideas.
- 3. .[**BELTAH TECH**](https://wa.me/254114141192) For Providing a base of SUPREME-MD.
+ [**SUPREME ALPHA**](https://wa.me/254796266758) For code Encryption. 
+ [**SUPREME LIL BENJAMIN**](https://wa.me/254769702239) For several Cmds & ideas.
+ [**BELTAH TECH**](https://wa.me/254114141192) For Providing a base of SUPREME-MD.
 
 🔗 TO JOIN OUR WHATSAPP CHANNEL.
-1. .[**JOIN**](https://whatsapp.com/channel/0029Vah7UNT6BIElZKwvzY43)
+[**JOIN**](https://whatsapp.com/channel/0029Vah7UNT6BIElZKwvzY43)
 
 🔗 TO JOIN OUR UPDATES GROUP.
-1. .[**JOIN**](https://chat.whatsapp.com/Bw2m61sYFUyB5Zp1h8DznX)
+[**JOIN**](https://chat.whatsapp.com/Bw2m61sYFUyB5Zp1h8DznX)
 
 🔗 TO JOIN OUR TELEGRAM CHANNEL.
-1. .[**JOIN**](https://t.me/SupremeTech254)
+[**JOIN**](https://t.me/SupremeTech254)
 
-🔗 DEVELOPERS OF SUPREME-MD.                                                                                                                    1. .[**SUPREME ALPHA**](https://wa.me/254796266758)                                                                                            2. .[**SUPREME LIL BENJAMIN**](https://wa.me/254769702239)                                                                                                                                                                                                                                                                                                                                                                                     🔗 SUPREME-MD Made with: 🤍
+🔗 DEVELOPERS OF SUPREME-MD.                                                                                                                    [**SUPREME ALPHA**](https://wa.me/254796266758)                                                                                            2. .[**SUPREME LIL BENJAMIN**](https://wa.me/254769702239)                                                                                                                                                                                                                                                                                                                                                                                     🔗 SUPREME-MD Made with: 🤍
