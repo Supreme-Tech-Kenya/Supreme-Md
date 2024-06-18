@@ -15,10 +15,10 @@
 
 
 
-🔗 SETUP 
 
 
-First star 🌟and [**FORK**](https://github.com/Supreme-Tech-Kenya/Supreme-Md) it
+🔗SETUP
+[**FORK**](https://github.com/Supreme-Tech-Kenya/Supreme-Md) FIRST and star 🌟 
 
 Get SESSION ID by Pairing code or Scanning QR: 
 
