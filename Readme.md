@@ -3,7 +3,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=SUPREME+MD;A+WHATSAPP+BOT;CREATED+BY+SUPREME+TECH" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=SUPREME+MD;A+WHATSAPP+DEVICE;CREATED+BY+SUPREME+TECH" alt="Typing SVG" /></a>
   </p>
 <div align="center">
 
@@ -15,38 +15,38 @@
 
 
 
-## Get Supreme-Md
+🔗 SETUP 
 
 
-1. Click on **[Fork](https://github.com/Supreme-Tech-Kenya/Supreme-Md/fork)** to copy the repo to your GitHub account. Make sure to add a star 🌟 to encourage the developers
+1. First star 🌟and [**FORK**](https://github.com/Supreme-Tech-Kenya/Supreme-Md) it
 
-3. Obtain a bot Supreme-Md session: 
+2. Get SESSION ID by Pairing code or Scanning QR: 
 
-   [Session-1](https://supresession-c8207054b6c5.herokuapp.com/) ; <br><br>
+   [**SESSION TAB**](https://supresession-c8207054b6c5.herokuapp.com/) ; <br><br>
+_Copy the session ID to paste it on HEROKU
 
+🔗 DEPLOY TO HEROKU 
+ 
+1. If You Don't Have An Account On HEROKU  [**CREATE ACCOUNT NOW**](https://id.heroku.com/login) 
+2. If You Have An Heroku Account [**DEPLOY NOW**](https://dashboard.heroku.com/new?template=https://github.com/Supreme-Tech-Kenya/Supreme-Md)
 
-4. Deploy
-   - **Heroku Deployment:**
-     1. If you don't have a **Heroku** account, click [**HERE**](https://id.heroku.com/login) to create one.
-     2. Click [**HERE**](https://dashboard.heroku.com/new?template=https://github.com/Supreme-Tech-Kenya/Supreme-Md) to deploy the bot on **Heroku**.
+🔗 CONTRIBUTIONS
 
-## Contributions
+Contribution to Supreme-Md are welcome!! If you have any idea for new Features , Improvement , Bug Fixes , Feel Free to Submit a Pull Request or open an issue.
 
-Contributions to Supreme-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
+🔗 THANKS TO 😊 :
 
-   Thanks 😊 to these persons ;
+ 1. .[**SUPREME ALPHA**]_(https://wa.me/254796266758) For code Encryption. 
+ 2. .[**SUPREME LIL BENJAMIN**]_(https://wa.me/254769702239) For several Cmds & ideas.
+ 3. .[**BELTAH TECH**]_(https://wa.me/254114141192) For Providing a base of SUPREME-MD.
 
-   **Alpha** who added commands (Fancy, gpt, dalle, apk); <br>
+🔗 TO JOIN OUR WHATSAPP CHANNEL.
+1. .[**JOIN**]_(https://whatsapp.com/channel/0029Vah7UNT6BIElZKwvzY43)
 
-   **Beltahmd** who hosted a second website for the session_id;
+🔗 TO JOIN OUR UPDATES GROUP.
+1. .[**JOIN**]_(https://chat.whatsapp.com/Bw2m61sYFUyB5Zp1h8DznX)
 
-## License
+🔗 TO JOIN OUR TELEGRAM CHANNEL.
+1. .[**JOIN**]_(https://t.me/SupremeTech254)
 
-The WhatsApp Bot Supreme-Md is released under the [MIT License](https://opensource.org/licenses/MIT).
-
-Enjoy the diverse features of the WhatsApp Bot Supreme-Md to enhance your conversations and make your WhatsApp experience more interesting!
-😎 Developers of Supreme-Md:
-
-- https://wa.me/254796266758
-- https://wa.me/254769702239 
-
+🔗 DEVELOPERS OF SUPREME-MD.                                                                                                                    1. .[**SUPREME ALPHA**]_(https://wa.me/254796266758)                                                                                            2. .[**SUPREME LIL BENJAMIN**]_(https://wa.me/254769702239)                                                                                                                                                                                                                                                                                                                                                                                     🔗 SUPREME-MD Made with: 🤍
