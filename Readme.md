@@ -37,16 +37,16 @@ Contribution to Supreme-Md are welcome!! If you have any idea for new Features ,
 🔗 THANKS TO 😊 :
 
  1. .[**SUPREME ALPHA**](https://wa.me/254796266758) For code Encryption. 
- 2. .[**SUPREME LIL BENJAMIN**]_(https://wa.me/254769702239) For several Cmds & ideas.
- 3. .[**BELTAH TECH**]_(https://wa.me/254114141192) For Providing a base of SUPREME-MD.
+ 2. .[**SUPREME LIL BENJAMIN**](https://wa.me/254769702239) For several Cmds & ideas.
+ 3. .[**BELTAH TECH**](https://wa.me/254114141192) For Providing a base of SUPREME-MD.
 
 🔗 TO JOIN OUR WHATSAPP CHANNEL.
-1. .[**JOIN**]_(https://whatsapp.com/channel/0029Vah7UNT6BIElZKwvzY43)
+1. .[**JOIN**](https://whatsapp.com/channel/0029Vah7UNT6BIElZKwvzY43)
 
 🔗 TO JOIN OUR UPDATES GROUP.
-1. .[**JOIN**]_(https://chat.whatsapp.com/Bw2m61sYFUyB5Zp1h8DznX)
+1. .[**JOIN**](https://chat.whatsapp.com/Bw2m61sYFUyB5Zp1h8DznX)
 
 🔗 TO JOIN OUR TELEGRAM CHANNEL.
-1. .[**JOIN**]_(https://t.me/SupremeTech254)
+1. .[**JOIN**](https://t.me/SupremeTech254)
 
-🔗 DEVELOPERS OF SUPREME-MD.                                                                                                                    1. .[**SUPREME ALPHA**]_(https://wa.me/254796266758)                                                                                            2. .[**SUPREME LIL BENJAMIN**]_(https://wa.me/254769702239)                                                                                                                                                                                                                                                                                                                                                                                     🔗 SUPREME-MD Made with: 🤍
+🔗 DEVELOPERS OF SUPREME-MD.                                                                                                                    1. .[**SUPREME ALPHA**](https://wa.me/254796266758)                                                                                            2. .[**SUPREME LIL BENJAMIN**](https://wa.me/254769702239)                                                                                                                                                                                                                                                                                                                                                                                     🔗 SUPREME-MD Made with: 🤍
