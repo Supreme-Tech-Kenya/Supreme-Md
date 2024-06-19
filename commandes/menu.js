@@ -32,22 +32,22 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────✧ *SUPREME BOT* ✧────◆
-│☹︎  *Préfix* : ${s.PREFIXE}
-│☹︎  *Owner* : ${s.OWNER_NAME}
-│☹︎  *Mode* : ${mode}
-│☹︎  *Commands* : ${cm.length}
-│☹︎  *Date* : ${date}
-│☹︎  *Hour* : ${temps}
-│☹︎  *Mémory* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│☹︎  *Platform* : ${os.platform()}
-│☹︎  *Déveloper* : Supreme-Tech 
-╰─────✧BEST-BOT✧─────◆ \n\n`;
+╭────✧ *SUPREME-MD* ✧────◆
+│❄︎  *Préfix* : ${s.PREFIXE}
+│❄︎  *Owner* : ${s.OWNER_NAME}
+│❄︎  *Mode* : ${mode}
+│❄︎  *Commands* : ${cm.length}
+│❄︎  *Date* : ${date}
+│❄︎  *Hour* : ${temps}
+│❄︎  *Mémory* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+│❄︎  *Platform* : ${os.platform()}
+│❄︎  *Déveloper* : Supreme-Tech 
+╰─────✧SUPREME-MD✧─────◆ \n\n`;
     
 let menuMsg = `
-👋 Hello ${nomAuteurMessage} 👋
+🤍Hello ${nomAuteurMessage} 🤍
 
-*✨😎SUPREME MD COMMANDS😎✨*
+*😎SUPREME MD COMMANDS😎*
 ◇                             ◇
 `;
 
@@ -66,7 +66,7 @@ let menuMsg = `
 *»»————— ★ —————««*
 *Thank you for choosing SUPREME BOT*
  
-*Powered by Supreme-Md*
+*Powered by SUPREME-TECH*
                                                 
 *»»————— ★ —————««*
 `;
