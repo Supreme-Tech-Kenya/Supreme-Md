@@ -12,17 +12,6 @@ zokou({ nomCom: "test", reaction: "✅", nomFichier: __filename }, async (dest, 
 });
 console.log("mon test");
 
-zokou({ nomCom: "repo", reaction: "✅", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
-    console.log("Commande saisie !!!s");
-    let z = ' Hello 🤩 This is *SUPREME-MD* .The Following is its *REPO*\n\n 📑 *REPOSITORY* : https://github.com/Supreme-Tech-Kenya/Supreme-Md\n*✨STARS* : 6\n*♦️FORKS* : 7\n🗓️ *RELEASE DATE* :16/06/2024\n";
-    let d = ' *OWNER* : *SUPREME-TECH*\n\n *POWERED BY SUPREME TECH TEAM*';
-    let varmess = z + d;
-    var img = 'https://telegra.ph/file/201479b521f3c8c245147.jpg';
-    await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
-    //console.log("montest")
-});
-console.log("mon test"); 
-
 zokou({ nomCom: "channel", reaction: "😬", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
     let z = ' *FOLLOW ❄︎𝑆𝑈𝑃𝑅𝐸𝑀𝐸 𝑇𝐸𝐶𝐻𑁍 CHANNEL* \n\nHello my name is *SUPREME-MD *\n ' + "Clic the link below to follow our WhatsApp official channel for more updates.\n";
@@ -44,6 +33,17 @@ zokou({ nomCom: "wagroup", reaction: "😜", nomFichier: __filename }, async (de
     //console.log("montest")
 });
 console.log("mon test");
+
+zokou({ nomCom: "repo", reaction: "✅", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+    console.log("Commande saisie !!!s");
+    let z = 'Hello 🤩 This is *SUPREME-MD*,,The Following is its *REPO*\n\n📑 *REPOSITORY* : https://github.com/Supreme-Tech-Kenya/Supreme-Md\n*✨STARS* : 6\n*♦️FORKS* : 7\n🗓️ *RELEASE DATE* :16/06/2024\n";
+    let d = ' *OWNER* : *SUPREME-TECH*\n\n *POWERED BY SUPREME TECH TEAM*';
+    let varmess = z + d;
+    var img = 'https://telegra.ph/file/201479b521f3c8c245147.jpg';
+    await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
+    //console.log("montest")
+});
+console.log("mon test"); 
 /*module.exports.commande = () => {
   var nomCom = ["test","t"]
   var reaction="☺️"
