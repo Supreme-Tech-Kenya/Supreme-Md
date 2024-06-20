@@ -24,7 +24,7 @@ zokou({ nomCom: "channel", reaction: "😌", nomFichier: __filename }, async (de
 });
 console.log("mon test");
 
-zokou({ nomCom: "developer", reaction: "🌟", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "Developer", reaction: "🌟", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
     let z = ' *HERE ARE MY OWNER INFO* \n\n✇ *NAME* : BENJAMIN SAFARI \n✇ *AGE* : 21 years\n✇ *SEX* : MALE\n✇ *RELIGION* : Christian\n✇ *NATIONALITY* :Kenyan 🇰🇪\n✇ *FAV TEAM* : LIVERPOOL FC\n✇ *REAL LIFE* :AM JUST EMPLOYED ,NEVER LEARNED CODDING AT ALL.\n✇ *HOBBY* : ELECTRICAL INSTALLATION  *CONTACT LIL BENJAMIN:👇 👇 \n'; https://wa.me/254769702239\n\n **THANK YOU FOR CHOOSING SUPREME-MD.* ';
     let varmess = z + d;
