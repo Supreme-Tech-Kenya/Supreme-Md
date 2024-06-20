@@ -13,7 +13,7 @@ zokou({nomCom:"supreme",reaction:"📡",categorie:"IA"},async(dest,zk,commandeOp
     if(!arg || !arg[0])
     {return repondre("yes I'm listening to you.")}
     //var quest = arg.join(' ');
-  {return repondre("I was created by Alpha and LIL Benjamin.")}
+  try{
     
     
 const message = await traduire(arg.join(' '),{ to : 'en'});
