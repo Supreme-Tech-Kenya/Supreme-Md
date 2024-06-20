@@ -46,14 +46,14 @@ zokou({ nomCom: "repo", reaction: "✅", nomFichier: __filename }, async (dest, 
 console.log("mon test"); 
 /*module.exports.commande = () => {
   var nomCom = ["test","t"]
-  var reaction="☺️"
+  var reaction="🥳"
   return { nomCom, execute,reaction }
 };
 
 async function  execute  (origineMessage,zok) {
   console.log("Commande saisie !!!s")
-   let z ='Salut je m\'appelle *Deltah* \n\n '+'je suis un bot Whatsapp Multi-appareil '
-      let d =' developpé par *Deltah-Tech*'
+   let z ='Salut je m\'appelle *Suprem-Md* \n\n '+'je suis un bot Whatsapp Multi-appareil '
+      let d =' developpé par *Supreme-Tech*'
       let varmess=z+d
       var img='https://wallpapercave.com/uwp/uwp3842939.jpeg'
 await  zok.sendMessage(origineMessage,  { image:{url:img},caption:varmess});
