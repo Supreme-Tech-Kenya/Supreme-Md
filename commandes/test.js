@@ -34,7 +34,7 @@ zokou({ nomCom: "wagroup", reaction: "😜", nomFichier: __filename }, async (de
 });
 console.log("mon test");
 
-zokou({ nomCom: "Repo", reaction: "✅", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "Repo", reaction: "😊", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
     let z = 'Hello 🤩 This is *SUPREME-MD*,,The Following is its *REPO*\n\n📑 *REPOSITORY* : https://github.com/Supreme-Tech-Kenya/Supreme-Md\n*✨STARS* : 6\n*♦️FORKS* : 7\n🗓️ *RELEASE DATE* :16/06/2024\n";
     let d = ' *OWNER* : *SUPREME-TECH*\n\n *POWERED BY SUPREME TECH TEAM*';
