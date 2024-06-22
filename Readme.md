@@ -1,5 +1,5 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## Nexus-Md V1.0.0 
+## Supreme-Md V1.0.0 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <div align="center">
@@ -7,7 +7,7 @@
   </p>
 <div align="center">
 
-| [![Nexus-Md](https://telegra.ph/file/201479b521f3c8c245147.jpg?lenght=50width=50)](https://github.com/Sepreme-Md)|
+| [![Supreme-Md](https://telegra.ph/file/201479b521f3c8c245147.jpg?lenght=50width=50)](https://github.com/Sepreme-Md)|
 |----|
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 
 🔗SETUP
-[**FORK**](https://github.com/Maven-Nexus/Nexus-Md) FIRST and star 🌟 
+[**FORK**](https://github.com/Supreme-Tech-Kenya/Supreme-Md) FIRST and star 🌟 
 
 Get SESSION ID by Pairing code or Scanning QR: 
 
@@ -32,11 +32,11 @@ If You Have An Heroku Account [**DEPLOY NOW**](https://dashboard.heroku.com/new?
 
 🔗 CONTRIBUTIONS
 
-Contribution to Nexus-Md are welcome!! If you have any idea for new Features , Improvement , Bug Fixes , Feel Free to Submit a Pull Request or open an issue.
+Contribution to Supreme-Md are welcome!! If you have any idea for new Features , Improvement , Bug Fixes , Feel Free to Submit a Pull Request or open an issue.
 
 🔗 THANKS TO 😊 :
 
- [**COOL RULER**](https://wa.me/254719846879) For code Encryption. 
+ [**Alpha**](https://wa.me/254796266758) For code Encryption. 
  [**LIL BENJAMIN**](https://wa.me/254769702239) For several Cmds & ideas.
  [**BELTAH TECH**](https://wa.me/254114141192) For Providing a base of SUPREME-MD.
 
@@ -49,4 +49,4 @@ Contribution to Nexus-Md are welcome!! If you have any idea for new Features , I
 🔗 TO JOIN OUR TELEGRAM CHANNEL.
 [**JOIN**](https://t.me/SupremeTech254)
 
-🔗 DEVELOPERS OF Nexus-Md                                                                                                                    [**COOL RULER**](https://wa.me/254719846879)                                                                                               [**LIL BENJAMIN**](https://wa.me/254769702239)                                                                                                                                                                                                                                                                                                                                                                                     
+🔗 DEVELOPERS OF Supreme-Md                                                                                                                   [**Alpha**](https://wa.me/254719846879)                                                                                                         [**LIL BENJAMIN**](https://wa.me/254769702239)                                                                                                                                                                                                                                                                                                                                                                                     
