@@ -49,4 +49,6 @@ Contribution to Supreme-Md are welcome!! If you have any idea for new Features ,
 🔗 TO JOIN OUR TELEGRAM CHANNEL.
 [**JOIN**](https://t.me/SupremeTech254)
 
-🔗 DEVELOPERS OF Supreme-Md                                                                                               [**SUPREME ALPHAA**](https://wa.me/254719846879)                                                                          [**SUPREME BENJAMIN**](https://wa.me/254769702239)                                                                                                                                                                                                                                                                                                                                                                                     
+🔗 DEVELOPERS OF Supreme-Md                                                                                               [**SUPREME ALPHAA**](https://wa.me/254719846879)                                                                          
+
+[**SUPREME BENJAMIN**](https://wa.me/254769702239)                                                                                                                                                                                                                                                                                                                                                                                     
