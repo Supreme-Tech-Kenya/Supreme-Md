@@ -3,7 +3,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=SUPREME+MD;A+WHATSAPP+DEVICE;CREATED+BY+SUPREME+TECH" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=SUPREME+MD;A+WHATSAPP+DEVICE;CREATED+BY+SUPREME+TECH+SUPREME+TECH+IS+A+KENYAN+TECH+GROUP+BASED+IN+CODE+DEVELOPMENT+WORLDWIDE" alt="Typing SVG" /></a>
   </p>
 <div align="center">
 
@@ -36,8 +36,8 @@ Contribution to Supreme-Md are welcome!! If you have any idea for new Features ,
 
 🔗 THANKS TO 😊 :
 
- [**Alpha**](https://wa.me/254796266758) For code Encryption. 
- [**LIL BENJAMIN**](https://wa.me/254769702239) For several Cmds & ideas.
+ [**SUPREME ALPHA**](https://wa.me/254796266758) For code Encryption. 
+ [**SUPREME BENJAMIN**](https://wa.me/254769702239) For several Cmds & ideas.
  [**BELTAH TECH**](https://wa.me/254114141192) For Providing a base of SUPREME-MD.
 
 🔗 TO JOIN OUR WHATSAPP CHANNEL.
@@ -49,4 +49,4 @@ Contribution to Supreme-Md are welcome!! If you have any idea for new Features ,
 🔗 TO JOIN OUR TELEGRAM CHANNEL.
 [**JOIN**](https://t.me/SupremeTech254)
 
-🔗 DEVELOPERS OF Supreme-Md                                                                                                                   [**Alpha**](https://wa.me/254719846879)                                                                                                         [**LIL BENJAMIN**](https://wa.me/254769702239)                                                                                                                                                                                                                                                                                                                                                                                     
+🔗 DEVELOPERS OF Supreme-Md                                                                                               [**SUPREME ALPHAA**](https://wa.me/254719846879)                                                                          [**SUPREME BENJAMIN**](https://wa.me/254769702239)                                                                                                                                                                                                                                                                                                                                                                                     
